@@ -237,5 +237,5 @@ return [
         'list_rows' => 15,
     ],
     //路径
-     '__ADMINSS__'      => '/public/static/admin',
+     '__ADMINSS__'      => '/static/admin',
 ];
